@@ -1,3 +1,1 @@
-# @websimai/core-api-types
-
-Core Websim API type declarations
+# Moved to [github.com/websimnpm/websim](https://github.com/websimnpm/websim)
